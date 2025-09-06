@@ -12,8 +12,8 @@ Este projeto fornece um ambiente completo para rodar o WordPress com MySQL usand
 1. **Clone este repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/isaccanedo/docker-wordpress-mysql.git
+   cd docker-wordpress-mysql
    ```
 
 2. **Suba os serviços com o Docker Compose:**
